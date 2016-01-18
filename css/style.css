@@ -1,0 +1,31 @@
+@font-face { 
+    font-family: 'Hind', sans-serif;
+}
+
+#wrapper {
+    width:90%;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#left {
+    width: 50%;
+    float: left;
+}
+
+#right {
+    width: 50%;
+    float: right;
+}
+
+#wrapper h1, #left h1, #right h1 {
+    text-align: center;
+    font-family: 'Hind';
+    font-weight: lighter;
+}
+
+#left h1, #right h1 {
+    font-size: 16pt;   
+    
+}
