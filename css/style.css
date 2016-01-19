@@ -192,7 +192,8 @@ a:visited, a:hover, a:hover, a:focus, a:active{
 @media only screen and (max-width : 380px) {
     
     html {
-        background-size: 100% auto;
+        background: url("images/mainbg.jpg") no-repeat center bottom;
+		background-size: cover;
     }
     
     #left, #right {
