@@ -192,16 +192,7 @@ a:visited, a:hover, a:hover, a:focus, a:active{
 @media only screen and (max-width : 380px) {
     
     html { 
-        position: relative;
-        width: 100%;
-        text-align: center;
-        color: #fff;
-        background-image: url(../asset/bg.jpg);
-        background-position: center;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
+        background-size: 100% auto;
     }
     
     #left, #right {
